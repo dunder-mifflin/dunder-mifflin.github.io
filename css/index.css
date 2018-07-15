@@ -1,0 +1,96 @@
+.version.index /* version checker */
+{
+	color: #0000E6;
+	background-color: #8AE8C9;
+}
+
+#page
+{
+	z-index: 1;
+	width: 600px;
+	min-height: 600px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 20px;
+	padding-bottom: 24px;
+	width: 0.01px;/* should not cover content below */
+}
+
+#u94-4
+{
+	z-index: 2;
+	width: 796px;
+	min-height: 32px;
+	background-color: transparent;
+	line-height: 38px;
+	font-size: 32px;
+	text-align: center;
+	font-weight: bold;
+	left: -100px;
+	position: relative;
+}
+
+#u99
+{
+	z-index: 6;
+	width: 243px;
+	background-color: transparent;
+	margin-left: 176px;
+	margin-top: 46px;
+	position: relative;
+}
+
+#u109
+{
+	z-index: 8;
+	width: 182px;
+	background-color: transparent;
+	margin-left: 209px;
+	margin-top: 89px;
+	position: relative;
+}
+
+#u118-18
+{
+	z-index: 10;
+	width: 422px;
+	min-height: 38px;
+	background-color: transparent;
+	line-height: 38px;
+	font-size: 32px;
+	text-align: center;
+	font-weight: bold;
+	margin-left: 87px;
+	margin-top: 49px;
+	position: relative;
+}
+
+#u118-2,#u118-4,#u118-6,#u118-8,#u118-10,#u118-12,#u118-14
+{
+	color: #FF0000;
+}
+
+#u118-3,#u118-5,#u118-7,#u118-9,#u118-11,#u118-13,#u118-15
+{
+	color: #006837;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 600px;
+}
+
